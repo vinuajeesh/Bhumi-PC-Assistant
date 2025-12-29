@@ -1,0 +1,16 @@
+faster-whisper
+selenium
+google-generativeai
+pynput
+python-dotenv
+pytest
+requests
+beautifulsoup4
+psutil
+pyautogui
+pyttsx3
+ollama
+duckduckgo-search
+elevenlabs
+webdriver-manager
+pyaudio
